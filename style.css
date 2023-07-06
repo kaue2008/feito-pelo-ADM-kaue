@@ -1,0 +1,19 @@
+* {
+    padding:0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+}
+body{
+    height: 100;
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: chocolate;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    height: 20%;
+}
