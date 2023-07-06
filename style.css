@@ -87,3 +87,7 @@ body{
     height: 60px;
     border-radius: 20px;
 }
+#btn :hover{
+    background-color: black;
+    color: black;
+}
