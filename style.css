@@ -91,3 +91,13 @@ body{
     background-color: black;
     color: black;
 }
+.rodape {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+}
+.rodape i {
+font-size: 172%;
+}
