@@ -6,7 +6,7 @@
     border: 0;
 }
 body{
-    height: 100;
+    height: 100%;
 }
 #header{
     display: flex;
@@ -46,7 +46,7 @@ body{
     height: 80%;
 }
 .conteudo{
-    width: 40px;
+    width: 40%;
 }
 #historia{
     display: flex;
@@ -69,19 +69,19 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: chartreuse;
-    border-radius: 30px;
+    background-color: rgba(128, 128, 128, 0.328);
+    border-radius: 0px;
     height: 40rem;
 }
 .in{
-    width: 80px;
+    width: 80%;
     height: 40px;
     border: transparent 1px ;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 #btn{
-    background-color: darkgray;
+    background-color: rgb(255, 0, 0);
     color: azure;
     width: 200px;
     height: 60px;
