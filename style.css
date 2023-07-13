@@ -12,13 +12,14 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background-color: chocolate;
+    background-color: red ;
     padding-top: 13px;
     padding-bottom: 13px;
     height: 20%;
 }
 #logo {
     padding-left: 10px;
+    height: 70px;
 }
 #nav{
     padding-left: 10px;
